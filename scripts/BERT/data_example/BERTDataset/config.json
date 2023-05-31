@@ -1,0 +1,4 @@
+{
+    "filepath": "data.h5",
+    "keys": ["next_sentence_label", "input_ids"]
+}
