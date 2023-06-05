@@ -41,8 +41,7 @@ Feel free to use our code, but please use the following citation:
 @inproceedings{herrewijnen2023meaningfulDomainEmbeddings,
   title="Towards Meaningful Paragraph Embeddings for Data-Scarce Domains: a Case Study in the Legal Domain",
   author={Herrewijnen, Elize and Craandijk, Dennis F W},
-  booktitle={6th Workshop on Automated Semantic Analysis of Information in Legal Text},
-  maintitle = {International Conference on Artificial Intelligence and Law 2023 (ICAIL 2023)},
+  booktitle={Proceedings of the Sixth Workshop on Automated Semantic Analysis of Information in Legal Text (ASAIL 2023), June 23, 2023, Braga, Portugal},
   year={2023},
   organization={ICAIL}
 }
