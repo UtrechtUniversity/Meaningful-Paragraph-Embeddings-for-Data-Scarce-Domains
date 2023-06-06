@@ -1,5 +1,5 @@
 # Meaningful-Paragraph-Embeddings-for-Data-Scarce-Domains
-Code for the paper *Meaningful Paragraph Embeddings for Data Scarce Domains* for the 6th Workshop on Automated Semantic Analysis of Information in Legal Text.
+Code for the paper [Meaningful Paragraph Embeddings for Data Scarce Domains](TowardsMeaningfulParagraphEmbeddingsforDataScarceDomains.pdf) for the [6th Workshop on Automated Semantic Analysis of Information in Legal Text](https://sites.google.com/view/asail/asail-home).
 
 ## Scripts
 All relevant python scripts for this project.
